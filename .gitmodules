@@ -1,0 +1,24 @@
+[submodule "learning-rust"]
+	path = learning-rust
+	url = https://github.com/hammad-mohi/learning-rust
+[submodule "learning-python"]
+	path = learning-python
+	url = https://github.com/hammad-mohi/learning-python
+[submodule "learning-c"]
+	path = learning-c
+	url = https://github.com/hammad-mohi/learning-c
+[submodule "learning-cpp"]
+	path = learning-cpp
+	url = https://github.com/hammad-mohi/learning-cpp
+[submodule "learning-go"]
+	path = learning-go
+	url = https://github.com/hammad-mohi/learning-go
+[submodule "learning-swift"]
+	path = learning-swift
+	url = https://github.com/hammad-mohi/learning-swift
+[submodule "learning-git"]
+	path = learning-git
+	url = https://github.com/hammad-mohi/learning-git
+[submodule "learning-pytorch"]
+	path = learning-pytorch
+	url = https://github.com/hammad-mohi/learning-pytorch
