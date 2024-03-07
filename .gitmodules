@@ -28,3 +28,6 @@
 [submodule "learning-dart"]
 	path = learning-dart
 	url = https://github.com/hammad-mohi/learning-dart
+[submodule "learning-java"]
+	path = learning-java
+	url = https://github.com/hammad-mohi/learning-java
