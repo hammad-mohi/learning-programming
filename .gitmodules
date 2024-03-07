@@ -22,3 +22,9 @@
 [submodule "learning-pytorch"]
 	path = learning-pytorch
 	url = https://github.com/hammad-mohi/learning-pytorch
+[submodule "learning-react"]
+	path = learning-react
+	url = https://github.com/hammad-mohi/learning-react
+[submodule "learning-dart"]
+	path = learning-dart
+	url = https://github.com/hammad-mohi/learning-dart
