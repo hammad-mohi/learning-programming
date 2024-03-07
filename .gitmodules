@@ -31,3 +31,12 @@
 [submodule "learning-java"]
 	path = learning-java
 	url = https://github.com/hammad-mohi/learning-java
+[submodule "learning-bash"]
+	path = learning-bash
+	url = https://github.com/hammad-mohi/learning-bash
+[submodule "learning-mojo"]
+	path = learning-mojo
+	url = https://github.com/hammad-mohi/learning-mojo
+[submodule "learning-csharp"]
+	path = learning-csharp
+	url = https://github.com/hammad-mohi/learning-csharp
